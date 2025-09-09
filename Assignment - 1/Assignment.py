@@ -70,7 +70,7 @@ plt.xlabel('Brand')
 plt.ylabel('Number of Cars')
 plt.xticks(rotation=45)
 plt.tight_layout()
-plt.show()
+plt.show() 
 
 #Histogram for car age
 plt.figure(figsize=(8, 5))
